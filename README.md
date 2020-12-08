@@ -1,2 +1,2 @@
 # Salam-Tajrish-ITP
-**The Codes of the class are placed in this repository**
+**The Codes of each session are placed in this repository**
